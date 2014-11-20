@@ -10,33 +10,33 @@ Makers Academy
 
 First introduction to Ruby
 -----------
- - [x][Student Directory]
- - [x][Roman Numerals]
- - [x][Fizzbuzz]
+ - [Student Directory]
+ - [Roman Numerals]
+ - [Fizzbuzz]
 
 Learning Object-Oriented Design and Testing
 -----------
-- [x][Supermarket] - initially just an exercise to get a grasp of CRC cards, but I coded it for fun!
-- [x][Airport] - a weekend challenge
-- [x][Boris Bikes] - A more complex version of Airport
-- [x][Battleships] - First experience working in a team (5 people). It was fun!
+- [Supermarket] - initially just an exercise to get a grasp of CRC cards, but I coded it for fun!
+- [Airport] - a weekend challenge
+- [Boris Bikes] - A more complex version of Airport
+- [Battleships] - First experience working in a team (5 people). It was fun!
 
 Learning about Servers, Sessions, and CSS
 -----------
-  - [x][Bookmark Collector] - A Ruby/Sinatra app, using Mailgun to reset password
-  - [x][Cowboy Ninja Bear] - A Javascript app, an alternative version of Rock-Paper-Scissors, my first experience of Heroku
-  - [x][Wunderlist] - A Nina-Simone themed To-Do list, playing "do what you gotta do" when you launch it. My first experience using jQuery and Node.js.
+  - [Bookmark Collector] - A Ruby/Sinatra app, using Mailgun to reset password
+  - [Cowboy Ninja Bear] - A Javascript app, an alternative version of Rock-Paper-Scissors, my first experience of Heroku
+  - [Wunderlist] - A Nina-Simone themed To-Do list, playing "do what you gotta do" when you launch it. My first experience using jQuery and Node.js.
 
 Experimenting
 --------------
-  - [x][Io] - One day of learning Io
-  - [x][Metaprogramming] -  One day of doing Ruby metaprogramming
-  - [x][Ruby refresher] - Week 8 challenge at Makers Academy
+  - [Io] - One day of learning Io
+  - [Metaprogramming] -  One day of doing Ruby metaprogramming
+  - [Ruby refresher] - Week 8 challenge at Makers Academy
 
 Building a live project
 --------------
- - [x][Map to the Future] - Final project at Makers Academy, built in 2 weeks in a team of four people.
- - [x][Send me a Text] - Built during Wix Hackathon London
+ - [Map to the Future] - Final project at Makers Academy, built in 2 weeks in a team of four people.
+ - [Send me a Text] - Built during Wix Hackathon London
 
         
 [Makers Academy]: http://www.makersacademy.com/
