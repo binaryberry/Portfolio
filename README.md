@@ -3,11 +3,11 @@ Portfolio
 
 List of projects I've built during and after [Makers Academy].
 
-First introduction to Ruby
+First introduction to Ruby - my humble beginnings
 -----------
- - [Student Directory]
- - [Roman Numerals]
- - [Fizzbuzz]
+ - [Student Directory] - My first programme. A Terminal app allowing to input and display a list of students.
+ - [Roman Numerals] - My first kata! Loads of TDD-ed fun.
+ - [Fizzbuzz] - Redone several times to get used to TDD.
 
 Learning Object-Oriented Design and Testing
 -----------
