@@ -14,7 +14,7 @@ Learning Object-Oriented Design and Testing
 - [Supermarket] - initially just an exercise to get a grasp of CRC cards, but I coded it for fun!
 - [Airport] - a weekend challenge
 - [Boris Bikes] - A more complex version of Airport
-- [Battleships] - First experience working in a team (5 people). It was fun!
+- [Battleships] - First experience working in a team (5 people). Went well!
 
 Learning about Servers, Sessions, and CSS
 -----------
