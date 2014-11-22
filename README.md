@@ -20,7 +20,7 @@ Learning about Servers, Sessions, and CSS
 -----------
   - [Bookmark Collector] - A Ruby/Sinatra app, using Mailgun to reset password
   - [Cowboy Ninja Bear] - A Javascript app, an alternative version of Rock-Paper-Scissors, my first experience of Heroku
-  - [Wunderlist] - A Nina-Simone themed To-Do list, playing "do what you gotta do" when you launch it. My first experience using jQuery and Node.js.
+  - [Wunderlist] - A Nina-Simone themed To-Do list, playing "Do what you gotta do" when you launch it. My first experience using jQuery and Node.js.
 
 Experimenting
 --------------
