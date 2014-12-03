@@ -1,7 +1,7 @@
 Portfolio
 =========
 
-List of projects I've built during and after [Makers Academy]
+List of projects I've built during and after [Makers Academy].
 
 First introduction to Ruby - my humble beginnings
 -----------
